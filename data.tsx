@@ -36,18 +36,25 @@ export const itemsNavbar = [
     },
     {
         id: 3,
+        title: "Experience",
+        icon: <Brush size={20} />,
+        link: "#experience",
+
+    },
+    {
+        id: 4,
         title: "Book",
         icon: <BookText size={20} />,
         link: "#services",
     },
     {
-        id: 4,
+        id: 5,
         title: "Target",
         icon: <CodeSquare size={20} />,
         link: "#portfolio",
     },
     {
-        id: 5,
+        id: 6,
         title: "Home",
         icon: <Mail size={20} />,
         link: "#contact",

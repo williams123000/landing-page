@@ -12,7 +12,7 @@ const Footer = () => {
                 </div>
                 <nav className="flex flex-col md:flex-row gap-4 md:gap-8 items-center">
                     <Link className="hover:text-primary transition-colors" href="#about-me">Sobre mi</Link>
-                    <Link className="hover:text-primary transition-colors" href="#skills">Habilidades</Link>
+                    <Link className="hover:text-primary transition-colors" href="#experience">Habilidades</Link>
                     <Link className="hover:text-primary transition-colors" href="#services">Servicios</Link>
                     <Link className="hover:text-primary transition-colors" href="#portfolio">Portafolio</Link>
                     <Link className="hover:text-primary transition-colors" href="#testimonials">Certificaciones</Link>
