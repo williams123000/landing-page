@@ -22,7 +22,7 @@ const Footer = () => {
             <Separator className="my-4"/>
             <div>
                 <p className="text-center py-4 text-sm md:text-base">
-                    © 2021 Williams. Todos los derechos reservados.
+                    © 2025 Williams. Todos los derechos reservados.
                 </p>
             </div>
         </footer>

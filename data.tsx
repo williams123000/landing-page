@@ -241,7 +241,7 @@ export const dataContact = [
     {
         id: 1,
         title: "Teléfono",
-        subtitle: "+52 991 44 53 02",
+        subtitle: "+52 999 14 45 30 2",
         link: "tel:9991445302",
         icon: <Phone />,
     },

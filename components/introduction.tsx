@@ -17,7 +17,7 @@ const Introduction = () => {
                             <Mail className="mr-2" /> Contactame
                         </Link>
 
-                        <Link className={buttonVariants({ variant: 'secondary' })} href="/cv-williams.pdf" target="_blank">
+                        <Link className={buttonVariants({ variant: 'secondary' })} href="/Williams.pdf" target="_blank">
                             <Paperclip className="mr-2" /> Descargar CV
                         </Link>
                     </div>
