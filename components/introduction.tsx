@@ -17,13 +17,13 @@ const Introduction = () => {
                             <Mail className="mr-2" /> Contactame
                         </Link>
 
-                        <Link className={buttonVariants({ variant: 'secondary' })} href="/Williams.pdf" target="_blank">
+                        <Link className={buttonVariants({ variant: 'secondary' })} href="/cv-Williams.pdf" target="_blank">
                             <Paperclip className="mr-2" /> Descargar CV
                         </Link>
                     </div>
                 </div>
                 <Image
-                    src="/williams.png"
+                    src="/profile-Williams.jpg"
                     alt="Profile pic"
                     width={300}
                     height={300}
