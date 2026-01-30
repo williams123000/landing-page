@@ -3,7 +3,7 @@ import { BellPlus, BookText, Briefcase, Brush, Code2, CodeSquare, Home, Inbox, M
 export const dataAboutMe = [
     {
         id: 1,
-        name: "Egreesado",
+        name: "Egresado",
         icon: <Briefcase />,
         description: "Ingeniería en Computación",
     },
