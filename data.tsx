@@ -3,9 +3,9 @@ import { BellPlus, BookText, Briefcase, Brush, Code2, CodeSquare, Home, Inbox, M
 export const dataAboutMe = [
     {
         id: 1,
-        name: "Estudiante",
+        name: "Egreesado",
         icon: <Briefcase />,
-        description: "Estudiante de Ingeniería en Computación",
+        description: "Ingeniería en Computación",
     },
     {
         id: 2,
@@ -17,7 +17,7 @@ export const dataAboutMe = [
         id: 3,
         name: "Proyectos",
         icon: <Wrench />,
-        description: "+20 completados",
+        description: "+10 completados",
     },
 ];
 
@@ -101,21 +101,21 @@ export const dataPortfolio = [
 export const dataExperience = [
     {
         id: 1,
-        title: "Frontend Development  💄",
+        title: "Desarrollo y tecnologías web",
         experience: [
             {
                 name: "HTML",
-                subtitle: "Experimentado",
-                value: 80,
+                subtitle: "Intermedio",
+                value: 60,
             },
             {
                 name: "CSS",
                 subtitle: "Intermedio",
-                value: 75,
+                value: 60,
             },
             {
                 name: "JavaScript",
-                subtitle: "Experimentado",
+                subtitle: "Intermedio",
                 value: 60,
             },
             {
@@ -137,8 +137,18 @@ export const dataExperience = [
     },
     {
         id: 2,
-        title: "Backend Development  🥷",
+        title: "Sistemas, backend y bases técnicas",
         experience: [
+            {
+                name: "Sistemas Operativos (Linux y Windows)",
+                subtitle: "Basic",
+                value: 50,
+            },
+            {
+                name: "Resolución de problemas técnicos",
+                subtitle: "Basic",
+                value: 50,
+            },
             {
                 name: "Node JS",
                 subtitle: "Intermedio",

@@ -49,10 +49,13 @@ const AboutMe = () => {
                         ))}
                     </div>
                     <p className="my-8">
-                        Soy un estudiante de ciencias de la computación apasionado por la tecnología y la programación.
-                        Me encanta aprender cosas nuevas y compartir conocimientos con los demás.
-                        Actualmente estoy enfocado en aprender desarrollo web y mejorar mis habilidades en el desarrollo de software.
-                        Siempre estoy buscando nuevas oportunidades para aprender y crecer como profesional.
+                    Egresado de Ingeniería en Computación con formación en desarrollo de software y creciente interés en el área de
+                    Soporte Técnico. Durante mi formación adquirí bases en diagnóstico de problemas técnicos, análisis de errores y
+                    manejo de sistemas Windows y Linux, así como experiencia en proyectos académicos. Busco iniciar mi desarrollo
+                    profesional en un área de soporte donde pueda aprender, apoyar a usuarios y fortalecer mis habilidades técnicas en
+                    entornos reales.
+                    Me considero una persona proactiva, con ganas de aprender y crecer profesionalmente, siempre dispuesto a enfrentar nuevos
+                    retos y contribuir al éxito del equipo.
                     </p>
                     <Button>
                         <Phone size={20} className="mr-2" href="#contact"/> Hablamos
