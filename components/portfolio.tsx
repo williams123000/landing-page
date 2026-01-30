@@ -27,7 +27,9 @@ const Portfolio = () => {
                             >
                                 Github
                             </Link>
-                            
+                            {
+                                /*
+                                Comentado porque no hay demo en vivo por el momento
                             <Link
                                 className={buttonVariants()}
                                 href={data.urlDemo}
@@ -35,7 +37,8 @@ const Portfolio = () => {
                             >
                                 Live demo
                             </Link>
-                            
+                            */
+                            }
                         </div>
                     </div>
                 ))}
