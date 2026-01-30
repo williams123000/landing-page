@@ -181,7 +181,7 @@ export const dataServices = [
         icon: <PanelsTopLeft />,
         features: [
             {
-                name: "Desarrollo de sitios web personalizados",
+                name: "Desarrollo de sitios web básicos y personalizados",
             },
             {
                 name: "Diseño y desarrollo responsive",
@@ -198,49 +198,34 @@ export const dataServices = [
                 name: "Programación con JavaScript",
             },
             {
-                name: "Programación con HTML",
+                name: "Programación con HTML y CSS",
             },
             {
-                name: "Programación con CSS",
+                name: "Programación con Node JS y Express",
             },
             {
-                name: "Programación con Node JS",
-            },
-            {
-                name: "Programación con Express JS",
-            },
-            {
-                name: "Programación con python",
-            },
-            {
-                name: "Programación con C",
-            },
-            {
-                name: "Programación con C++",
+                name: "Programación básica con Python",
             },
         ]
         
     },
     {
         id: 3,
-        title: "Redes",
+        title: "Soporte",
         icon: <Wrench />,
         features: [
             {
-                name: "Configuración de redes",
+                name: "Soporte técnico básico",
             },
             {
-                name: "Instalación de redes",
+                name: "Diagnóstico basico de software y hardware",
             },
             {
-                name: "Diseño de redes",
+                name: "Instalación y configuración de sistemas operativos",
             },
             {
-                name: "Mantenimiento de redes",
-            },
-            {
-                name: "Seguridad de redes",
-            },
+                name: "Mantenimiento básico de equipos",
+            }
         ],
     },
     
