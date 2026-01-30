@@ -10,7 +10,7 @@ const Introduction = () => {
             <div className="text-center " id="home">
                 <h3 className="text-xl mb-3">Hola, Soy Williams Chan Pescador</h3>
                 <h1 className="text-4xl font-bold mb-3"> Williams 🧑‍💻</h1>
-                <h2 className="text-2xl text-gray-400">Estudiante de Ingeniería en Computación </h2>
+                <h2 className="text-2xl text-gray-400">Egresado de Ingeniería en Computación </h2>
                 <div className="flex items-center">
                     <div className="flex flex-col md:flex-row gap-4 justify-between mt-10 mx-auto">
                         <Link className={buttonVariants()} href="#contact">
@@ -27,7 +27,7 @@ const Introduction = () => {
                     alt="Profile pic"
                     width={300}
                     height={300}
-                    className="mx-auto mt-8" // Esto centra la imagen horizontalmente y añade margen superior
+                    className="mx-auto mt-8" 
                 />
             </div>
         </Container>
