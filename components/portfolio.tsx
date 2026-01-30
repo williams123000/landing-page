@@ -27,7 +27,7 @@ const Portfolio = () => {
                             >
                                 Github
                             </Link>
-                            /** 
+                            
                             <Link
                                 className={buttonVariants()}
                                 href={data.urlDemo}
@@ -35,7 +35,7 @@ const Portfolio = () => {
                             >
                                 Live demo
                             </Link>
-                            */
+                            
                         </div>
                     </div>
                 ))}
